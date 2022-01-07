@@ -1,0 +1,87 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+#skills-list, #goals-list, #interests-list {
+	font-size: small;
+}
+
+.topic {
+	font-size: x-large;
+}
+
+.buttons {
+	font-size: large;
+	background-color: yellow;
+}
+
+#page-header {
+	font-size: xx-large;
+	color: yellowgreen;
+	text-align: center;
+}
+
+#tomato-container {
+	background-color: tomato;
+	text-align: center;
+}
+
+#profile-body {
+	background-color: rgb(0, 130, 139);
+	padding: 0;
+	margin: 0;
+	max-width: 100000px;
+  margin: 2rem auto;
+}
+
+#experiment {
+	background-color: tomato;
+	padding: 2%;
+	text-align: center;
+}
+
+#input-box {
+	text-align: center;
+	margin: 2%;
+	margin-left: 43%;
+	margin-bottom: 0%;
+}
+
+#submit-btn {
+	margin-left: 52%;
+}
